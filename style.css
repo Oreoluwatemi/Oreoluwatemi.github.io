@@ -65,7 +65,7 @@ body {
 }
 
 #project {
-    margin-top: 100px;
+    margin-top: 300px;
     text-align: center;
     height: 500px;
 }
@@ -95,7 +95,7 @@ body {
 #mini-project {
     text-align: center;
     height: 150px;
-    margin-top: 200px;
+    margin-top: 400px;
 }
 
 .mini-projects {
@@ -129,7 +129,7 @@ body {
     border: 1px solid black;
     border-radius: 3px;
     background-color: gainsboro;
-    margin-top: 300px;
+    margin-top: 500px;
 }
 
 #top a {
